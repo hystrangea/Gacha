@@ -1,4 +1,7 @@
 button{
     color: rgb(31, 6, 74); 
     background-color: rgb(240, 107, 178);
-}
+    rotate: 0;
+    transition: 2s;
+    }
+

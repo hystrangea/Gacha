@@ -11,14 +11,11 @@ function bangClicked(){
     var buttonElement =document.getElementById("bangButton")
     buttonElement.style.backgroundColor="blue"
 
-        
-
-
    //this part sets the rotation
     rotation = (rotation + angle) % 360;
     buttonElement.style.transform=`rotate(${rotation}deg)`;
 
 
-    
-
 }
+
+function button
